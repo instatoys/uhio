@@ -1,2 +1,2 @@
 i code things with some languages sometimes
-creds.k1e.io
+social media & pgp --> creds.k1e.io
