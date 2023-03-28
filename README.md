@@ -1,3 +1,2 @@
-<img src="https://lanyard.cnrad.dev/api/673477059904929802?idleMessage=probably+sleeping+or+something">
-<img src="https://lfm-readme.k1e.io/api?user=pictograms">
+<img src="https://img.freepik.com/free-vector/gradient-black-background-with-wavy-lines_23-2149158064.jpg">
 
