@@ -4,6 +4,9 @@
 
 I'm Kieran, I'm a Software Developer who makes weird applications when he's bored. I also Co-Founded a few startups, the most recent being Cleverskip - the new way to plan your journey.
 
+Track the latest space flight countdown over @ [k1e.io/launch](https://k1e.io/launch)!<br>
+You can also check the [spaceflighted twitter](https://twitter.com/spaceflighted) for updates.
+
 ![Hits](https://hits-app.vercel.app/hits?url=https%3A%2F%2Fgithub.com%2Fuhio&bgRight=FAA0A0)
 
 <a href="https://k1e.io/" target="_blank">
