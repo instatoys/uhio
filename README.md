@@ -12,7 +12,7 @@ You can also check the [transport for london status](https://k1e.io/tfl) because
 <a href="https://k1e.io/" target="_blank">
   <img align="left" width="22px" alt="Welcome to my world.." src="http://simpleicon.com/wp-content/uploads/link-2.png"/>
 </a>
-<a href="https://twitter.com/instatoys_" target="_blank">
+<a href="https://s.k1e.io/soc/x" target="_blank">
   <img align="left" width="22px" alt="Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <br />
